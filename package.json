@@ -5,10 +5,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/usediver/diver-monorepo.git",
-    "directory": "diver_push_react_native"
+    "url": "https://github.com/usediver/diver-push-react-native.git"
   },
-  "private": true,
+  "homepage": "https://github.com/usediver/diver-push-react-native#readme",
+  "bugs": "https://github.com/usediver/diver-push-react-native/issues",
+  "publishConfig": {
+    "access": "public"
+  },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
